@@ -1,0 +1,90 @@
+.AppBar{
+    background-color: #65B1C2!important;
+    height:100px;
+    width:100vw;
+
+}
+.searchMenu{
+    width:60vh;
+    height: 60px;
+}
+.icon{
+   font-size: 2.3rem!important;
+}
+
+.logoNavBar{
+    padding-top: 15px;
+    width:300px;
+    height:100px;
+    margin-top: 5px;
+
+}
+.menu_list li{
+    list-style-type: none;
+    font-size: 1.2rem;
+    padding:0 25px 0 0;
+    margin:0;
+}
+
+.menu_list  {
+    display: flex;
+    
+    text-decoration: inherit;
+    width: 100%;
+    margin:0;
+}
+
+.menu_list a{
+    text-decoration: inherit;
+}
+
+.navbar{
+
+}
+
+
+
+.bg{
+    background-color: white;
+    color:black;
+}
+
+.tituloNavBar {
+    color: white;
+  
+    margin-left: 10px;
+}
+
+
+.logoNavBar{
+    padding-bottom: 5px;
+    height: 90px;
+    width: 300px;
+    
+}
+input:focus{
+    border-color: white!important;
+    background-color: aliceblue;
+}
+textarea:focus, input:focus, select:focus {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    border-color: white!important;
+    background-color: ali
+} 
+.inputNavBar{
+    border-color: white!important;
+    width: 90%;
+    height: 30px;
+    margin-top: 3%;
+    border-radius: 3px;
+    color:black;
+
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    border-color: white!important;
+    background-color: ali
+    
+}
